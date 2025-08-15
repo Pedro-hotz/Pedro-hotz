@@ -37,7 +37,7 @@ Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento 
 ---
 
 ## 📌 Projetos em progresso   
-- [**Sistema para Ong**](#) — Sistema em Python e flask para ong
+- [**Sistema para Ong**](#) — Sistema em Python e flask para Ong
 
 ---
 
