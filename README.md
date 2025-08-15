@@ -1,3 +1,60 @@
-Bem vindo ao meu perfil ! 
+# 👋 Olá, eu sou o Pedro Ferreira Hotz  
 
-Meu nome é Pedro Ferreira Hotz, sou um dev full-stack em contrução. Tenho experiência em TypeScript, GoLang, Angular e Node.Js. Ademais, atualmente, estudo Java. No meu tempo livre gosto de criar pequenos projetos de software e passar tempo na natureza. Sou estagiário em t.i. Atualmente, cursando sistema de informação. 
+💻 **Estagiário de TI** | **Full-Stack Developer**  
+🎓 4º Período de **Sistemas de Informação**  
+🚀 Apaixonado por tecnologia, código limpo e soluções criativas  
+
+---
+
+## 🚀 Sobre mim  
+Sou desenvolvedor em início de carreira, atuando no **backend** com **Golang** e **Node.js**, além de trabalhar no **frontend** com **Angular**.  
+Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento e transformar ideias em projetos reais.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+<div>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>  
+
+---
+
+## 📚 Atualmente aprendendo  
+- Arquitetura de software  
+- Boas práticas de código (Clean Code & SOLID)  
+- Integrações com APIs REST e gRPC  
+- Testes automatizados  
+
+---
+
+## 📌 Projetos em destaque  
+- [**API Financeira em Go**](#) — API REST para gestão de transações financeiras  
+- [**Sistema de Tarefas com Node.js & Angular**](#) — Aplicação full-stack para organização de tarefas  
+- [**Clonando o GitHub Stats**](#) — Ferramenta para exibir estatísticas do GitHub de forma personalizada  
+
+---
+
+## 📊 Estatísticas do GitHub  
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroHotz&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHotz&layout=compact&theme=tokyonight"/>
+</div>  
+
+---
+
+## 🤝 Conecte-se comigo!  
+<div>
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>  
+
+> ⭐ Se curtiu algum projeto, deixe uma estrela!  
