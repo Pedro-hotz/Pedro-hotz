@@ -1,5 +1,3 @@
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d326b33b-b0e5-4cc5-98c0-4be8106b5436" />
-
 # 👋 Olá, eu sou o Pedro Ferreira Hotz  
 
 💻 **Estagiário de TI** | **Full-Stack Developer**  
