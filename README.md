@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mim  
-Sou desenvolvedor em início de carreira, atuando no **backend** com **Golang** e **Node.js**, além de trabalhar no **frontend** com **Angular**.  
+Sou desenvolvedor em início de carreira, atuando no **backend** com **Golang**, **Node.js** e **Angular**, além de trabalhar no **frontend** com **Angular**.  
 Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento e transformar ideias em projetos reais.  
 
 ---
@@ -27,12 +27,13 @@ Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento 
 
 ---
 
-## 📚 Atualmente aprendendo  
+## 📚 Atualmente aprendendo 
+- Java 
 - Arquitetura de software  
 - Boas práticas de código (Clean Code & SOLID)  
 - Integrações com APIs REST  
-- Testes automatizados  
-- Java
+- Testes automatizados
+- 
 
 ---
 
