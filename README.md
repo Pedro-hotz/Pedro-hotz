@@ -27,16 +27,6 @@ Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento 
 
 ---
 
-## 📚 Atualmente aprendendo 
-- Java 
-- Arquitetura de software  
-- Boas práticas de código (Clean Code & SOLID)  
-- Integrações com APIs REST  
-- Testes automatizados
-- 
-
----
-
 ## 📌 Projetos em progresso   
 - [**Sistema para Ong**](#) — Sistema em Python e flask para Ong
 
