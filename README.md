@@ -36,7 +36,7 @@ Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento 
 ## 📊 Estatísticas do GitHub  
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedro-hotz&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHotz&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hotz&layout=compact&theme=tokyonight"/>
 </div>  
 
 ---
