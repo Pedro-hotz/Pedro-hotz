@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro Ferreira Hotz  
 
-💻 **Estagiário de TI** | **Full-Stack Developer**  
+💻 **Estagiário** | **Full-Stack Developer**  
 🎓 4º Período de **Sistemas de Informação**  
 🚀 Apaixonado por tecnologia, código limpo e soluções criativas  
 
