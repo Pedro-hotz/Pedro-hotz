@@ -43,7 +43,7 @@ Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento 
 
 ## 🤝 Conecte-se comigo!  
 <div>
-  <a href="https://www.linkedin.com/in/pedro-ferreira-hotz-0a44032ba/">
+  <a href="https://www.linkedin.com/in/pedro-ferreira-hotz-0a44032ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pfh92006@gmail.com">
