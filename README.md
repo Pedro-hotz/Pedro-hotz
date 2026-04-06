@@ -35,7 +35,7 @@ Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento 
 
 ## 📌 Projetos em progresso   
 - [**Micro SASS para gestão financeira pessoal**](#) — Sistema em Python e flask
-- [**Ecommerce**](#) — React.js 
+- [**Ecommerce**](#)
 
 ---
 
