@@ -1,0 +1,60 @@
+# 👋 Olá, eu sou o Pedro Ferreira Hotz  
+
+💻 **Estagiário** | **Full-Stack Developer**  
+🎓 5º Período de **Sistemas de Informação**  
+🚀 Apaixonado por tecnologia, código limpo e soluções criativas  
+
+---
+
+## 🚀 Sobre mim  
+Sou desenvolvedor em início de carreira, atuando no **backend** com **Golang**, **Node.js**, além de trabalhar no **frontend** com **Angular**.  
+Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento e transformar ideias em projetos reais.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+<div>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+---
+
+## 👨‍💻 Projetos realizados  
+- [**Sistema para Ong**](#) — Sistema em Python e flask para Ong
+- [**Freelance de ML**](#) — Machine leaning que retorna o valor de imoveis e suas váriaveis que valorizam o mesmo.
+
+---
+
+## 📌 Projetos em progresso   
+- [**Micro SASS para gestão financeira pessoal**](#) — Sistema em Python e flask
+- [**Ecommerce**](#) — React.js 
+
+---
+
+## 📊 Estatísticas do GitHub  
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedro-hotz&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hotz&layout=compact&theme=tokyonight"/>
+</div>  
+
+---
+
+## 🤝 Conecte-se comigo!  
+<div>
+  <a href="www.linkedin.com/in/pedro-hotz123" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pfh92006@gmail.com?subject=Assunto%20do%20Email&body=Olá,%20este%20é%20o%20corpo%20do%20email." target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>  
+
+> ⭐ Se curtiu algum projeto, deixe uma estrela!  
