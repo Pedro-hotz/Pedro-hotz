@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Pedro Ferreira Hotz  
 
 💻 **Estagiário** | **Full-Stack Developer**  
-🎓 5º Período de **Sistemas de Informação**  
+🎓 6º Período de **Sistemas de Informação**  
 🚀 Apaixonado por tecnologia, código limpo e soluções criativas  
 
 ---
@@ -49,7 +49,7 @@ Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento 
 
 ## 🤝 Conecte-se comigo!  
 <div>
-  <a href="www.linkedin.com/in/pedro-hotz123" target="_blank">
+  <a href="www.linkedin.com/in/pedro-hotz-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pfh92006@gmail.com?subject=Assunto%20do%20Email&body=Olá,%20este%20é%20o%20corpo%20do%20email." target="_blank">
