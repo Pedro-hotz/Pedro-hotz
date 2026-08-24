@@ -34,8 +34,8 @@ Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento 
 ---
 
 ## 📌 Projetos em progresso   
-- [**Micro SASS para gestão financeira pessoal**](#) — Sistema em Python e flask
-- [**Ecommerce**](#) — React.js 
+- [**Dashboard financeiro e gestão de clientes**](#) — Sistema em Flask e React.ts
+- [**Ecommerce**](#) — React.js - ( On Hold )
 
 ---
 
@@ -55,6 +55,7 @@ Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento 
   <a href="mailto:pfh92006@gmail.com?subject=Assunto%20do%20Email&body=Olá,%20este%20é%20o%20corpo%20do%20email." target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <h3>(21) 97026-8881</h3>
 </div>  
 
 > ⭐ Se curtiu algum projeto, deixe uma estrela!  
