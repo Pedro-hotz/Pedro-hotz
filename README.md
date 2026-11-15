@@ -35,7 +35,7 @@ Gosto de aprender novas tecnologias, explorar boas práticas de desenvolvimento 
 
 ## 📌 Projetos em progresso   
 - [**Dashboard financeiro e gestão de clientes**](#) — Sistema em Flask e React.ts
-- [**Ecommerce**](#) — React.js - ( On Hold )
+- [**Site de consultas online para Advogado**](#) — Sistema em Flask 
 
 ---
 
